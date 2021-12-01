@@ -5,7 +5,7 @@
  * Plugin Name:       GALERIA ACF
  * Plugin URI:        http://kleniopadilha.com
  * Description:       GALERIA ACF
- * Author:            klenio adilha
+ * Author:            klenio padilha
  * Author URI:        http://kleniopadilha.com
  * Version:           1
  */
